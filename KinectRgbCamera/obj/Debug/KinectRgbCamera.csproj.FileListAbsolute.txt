@@ -1,0 +1,16 @@
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\bin\Debug\KinectRgbCamera.exe.config
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\bin\Debug\KinectRgbCamera.exe
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\bin\Debug\KinectRgbCamera.pdb
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.csprojResolveAssemblyReference.cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\MainWindow.baml
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\MainWindow.g.cs
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\App.g.cs
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera_MarkupCompile.cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.g.resources
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.Properties.Resources.resources
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.csproj.GenerateResource.Cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.exe
+c:\users\junya\documents\visual studio 2013\Projects\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.pdb
+C:\Users\Junya Nakamura\Desktop\KinectRgbCamera\KinectRgbCamera\bin\Debug\KinectRgbCamera.exe.config
+C:\Users\Junya Nakamura\Desktop\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.exe
+C:\Users\Junya Nakamura\Desktop\KinectRgbCamera\KinectRgbCamera\obj\Debug\KinectRgbCamera.pdb
